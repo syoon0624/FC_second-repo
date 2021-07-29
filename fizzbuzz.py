@@ -1,6 +1,7 @@
-for i in range(1,10):
-	if i%3 == 0:	
-		print(i)
-	else:
-		print(-1)
+for i in range(1, 10):
+    if i % 3 == 0:
+        print(i)
+    else:
+        print(-1)
 
+wjiejf
